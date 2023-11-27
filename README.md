@@ -1,4 +1,4 @@
-### Hi there 👋
+### 아직 깃헙 프로필 업데이트 중... 예쁘게 꾸미는 팁 아시는 분 연락주세요
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
