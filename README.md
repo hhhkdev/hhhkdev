@@ -1,6 +1,4 @@
-### 아직 깃헙 프로필 업데이트 중... 예쁘게 꾸미는 팁 아시는 분 연락주세요
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+아직 깃헙 프로필 업데이트 중... 예쁘게 꾸미는 팁 아시는 분 연락주세요
 
 ![icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -24,4 +22,3 @@
 ![icon](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=c235335)](https://solved.ac/c235335)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
